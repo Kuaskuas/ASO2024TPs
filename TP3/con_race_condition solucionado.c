@@ -21,6 +21,7 @@ void *comer_hamburguesa(void *tid)
 		else
 		{
 			printf("SE TERMINARON LAS HAMBURGUESAS :( \n");
+			turno = (turno + 1)% NUMBER_OF_THREADS; //Codigo agregado
 
 			pthread_exit(NULL); // forzar terminacion del hilo
 		}
