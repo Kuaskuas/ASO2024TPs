@@ -13,4 +13,6 @@
 <img src="TP3/Trabajo práctico N3.pdf" alt="Preguntas" />
 <p> 1) 
   A)Se puede ver como los tiempos varian entre el archivo sinhilos.py y con conhilos.py, y a su vez se puede ver un cambio en el tiempo cada vez que se ejecuta el archivo. a veces mas rapido y a veces mas lento. </p>
+   <p>B) Los tiempos de ejecuccion son diferentes, probablemente por las diferentes caractreristicas en el hardware. </p>
+   <p>C) Una vez borrado los comentarios, aumenta bastante el tiempo de ejefcucion, en mi caso casi 3 segundos y medio. </p>
 
