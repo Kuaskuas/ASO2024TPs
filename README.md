@@ -11,4 +11,6 @@
 <img src="/images/CapTP2.png" alt="Imagen de los procesos corriendo" />
 <p> Trabajo Practico Numero 3</p>
 <img src="TP3/Trabajo práctico N3.pdf" alt="Preguntas" />
+<p> 1) 
+  A)Se puede ver como los tiempos varian entre el archivo sinhilos.py y con conhilos.py, y a su vez se puede ver un cambio en el tiempo cada vez que se ejecuta el archivo. a veces mas rapido y a veces mas lento. </p>
 
