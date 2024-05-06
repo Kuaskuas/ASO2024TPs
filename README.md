@@ -12,7 +12,7 @@
 <p> Trabajo Practico Numero 3</p>
 <a heref="https://aulavirtual.frbb.utn.edu.ar/pluginfile.php/404611/mod_assign/introattachment/0/Trabajo%20pr%C3%A1ctico%20N3.pdf?forcedownload=1" > "Preguntas (Trabajo Practico Numero 3)"</a
   >
-  <a href="https://www.mozilla.org/es-AR/about/manifesto/"
+  <a href="(https://aulavirtual.frbb.utn.edu.ar/pluginfile.php/404611/mod_assign/introattachment/0/Trabajo%20pr%C3%A1ctico%20N3.pdf?forcedownload=1)"
   >Manifesto Mozilla</a
 >
 
