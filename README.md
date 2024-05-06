@@ -10,6 +10,6 @@
 <p> En este trabajo practico debiamos crear nuestro primer repositorio en girhub y dar los primeros pasos y ademas ver como corren los procesos mediantre la consola.</p>
 <img src="/images/CapTP2.png" alt="Imagen de los procesos corriendo" />
 <p> Trabajo Practico Numero 3</p>
-<a heref="file:///home/camilo/Downloads/Trabajo%20pr%C3%A1ctico%20N3.pdf" > "Preguntas (Trabajo Practico Numero 3)"</a
+<a src="TP3/Trabajo-práctico-N3.pdf">"Preguntas (Trabajo Practico Numero 3)"</a
   >
 
