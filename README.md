@@ -19,7 +19,7 @@
 <img src="/images/CapTP3.png" alt="El codigo" /)
 <p>Las lineas agregadas son: 10,14,19,24</p>
 <p>B) La traza de las acciones contenporaneas de los hilos.</p>
-<img src="/image/CapTP3(2).png" alt="Traza en exel" />
+<img src="/image/CapTP3_2.png" alt="Traza en exel" />
 
 
 
