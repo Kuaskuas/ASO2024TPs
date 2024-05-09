@@ -7,15 +7,16 @@ int cantidad_restante_hamburguesas = CANTIDAD_INICIAL_HAMBURGUESAS;
 
 
 void *comer_hamburguesa(void *tid)
-{ int turno = 0;
+{ int turno = 0; //Codigo agregado
 	while (1 == 1)
 	{;
 	// INICIO DE LA ZONA CRÍTICA
-	while (turno != (int)tid)
+	while (turno != (int)tid) //Codigo agregado
 		if (cantidad_restante_hamburguesas > 0)
 		{
 			printf("Hola! soy el hilo(comensal) %d , me voy a comer una hamburguesa ! ya que todavia queda/n %d \n", (int) tid, cantidad_restante_hamburguesas);
 			cantidad_restante_hamburguesas--; // me como una hamburguesa
+			turno = (turno + 1)% NUMBER_OF_THREADS; //Codigo agregado
 		} 
 		else
 		{
@@ -24,7 +25,7 @@ void *comer_hamburguesa(void *tid)
 			pthread_exit(NULL); // forzar terminacion del hilo
 		}
     // SALIDA DE LA ZONA CRÍTICA   
-	turno = (turno + 1)% NUMBER_OF_THREADS;
+	
 
 	}
 }
