@@ -19,7 +19,7 @@
   se agrega esta suma en el "else" tambien para que cuando entre uno al else (por que se acabaron las hambrguesas) y se apague, va aquedar un hilo prendido, al agregarle la suma al "else" el turno se cambiara otra vez y el otro entrara a la region critica y se apagara.</p>
 <img src="/images/CapTP3.png" alt="El codigo" /)
 <p>Las lineas agregadas son: 10,14,19,24</p>
-<p>B) La traza de las acciones contenporaneas de los hilos.</p>
+<p>B) La traza de las acciones contenporaneas de los hilos para 8 hamburguesas y 2 comenzales.</p>
 <img src="/images/CapTP3_2.png" alt="Traza en exel" />
 
 
