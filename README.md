@@ -17,7 +17,7 @@
    <p>C) Una vez borrado los comentarios, aumenta bastante el tiempo de ejefcucion, en mi caso casi 3 segundos y medio. </p>
 <p>2)A) En el punto 2)A) habia que agregar las lineas escenciales para que dos comenzales coman la misma cantidad de hamburguesas, lo que yo creo que habia que hacer es primero que nada definir la variante "turno" luego poner el while que evalue la variante turno, para finalizar poniendo dentro de el "if" y "else" una linea de codigo que haga el modulo de turno + 1 lo cual hara que cada vez que entre un hilo a comer una hamburguesa este valor cambie, una vez que este cambie, otro hilo podra entrar a la region critica.
   se agrega esta suma en el "else" tambien para que cuando entre uno al else (por que se acabaron las hambrguesas) y se apague, va aquedar un hilo prendido, al agregarle la suma al "else" el turno se cambiara otra vez y el otro entrara a la region critica y se apagara.</p>
-<img src="/images/CapTP3.png" alt="El codigo" /)
+<img src="/images/CapTP3.png" alt="solucionado" /)
 <p>Las lineas agregadas son: 10,14,19,24</p>
 <p>B) La traza de las acciones contenporaneas de los hilos para 8 hamburguesas y 2 comenzales.</p>
 <img src="/images/CapTP3_2.png" alt="Traza en exel" />
