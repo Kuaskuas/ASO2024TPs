@@ -21,6 +21,20 @@
 <p>Las lineas agregadas son: 13,18,23,27 </p>
 <p>B) La traza de las acciones contenporaneas de los hilos para 8 hamburguesas y 2 comenzales.</p>
 <img src="/images/CapTP3_2.png" alt="Traza en exel" />
+<p> Trabajo Practico Numero 4 </p>
+<p>1)
+En el punto 1 debemos clonar el repositorio dado en el TP y poner a funcionar los servicios.</p>
+<img src="/images/CapTP4.png" alt="Servidores en funcionamiento"/>
+<p>2)
+En este punto se muestran dos servicios activos pero desde google.
+Este es PhpMyAdmin.</p>
+<img src="/images/CapTP4_2.png" alt="PhpMyAdmin" />
+<p>Y este es Nginx.</p>
+<img src="/images/CapTP4_3.png" alt="Nginx" />
+<p>3)
+Y en el punto tres se muestra como se reproduce la pagina de la utn en el localhost de Nginx, para hacerlo se debe descargar los archivos de la pagina de la univerisad y moverlos adentro de la carpeta web de el git clonado, y luego en LINUX es muy  importante bajar los servicios con la consola (Down) y al hacer la subida (Up) de vuelta ya estaran los cambios relizados. modificando el link o el index.html se puede mostrar la pagina.</p>
+<img src="/images/CapTP4_4.png" alt="Pagina de la uni" />
+
 
 
 
