@@ -1,4 +1,4 @@
-o#!/bin/bash
+#!/bin/bash
 
 # 3) Calculadora Simple
 while true; do
